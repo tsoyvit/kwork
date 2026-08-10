@@ -1,0 +1,11 @@
+project_url,title,desired_budget_rub,allowable_budget_rub,proposals,hire_rate,buyer_projects,buyer_purchase_badge,notes
+https://kwork.ru/projects/3233411,"Доработать сайт",10000,,4,33%,86,"20+","доработка существующего сайта по приложенному ТЗ"
+https://kwork.ru/projects/3233337,"Сделать уведомления в телеграм",1000,,0,73%,241,"100+","WordPress: уведомления о звонке/заявке в Telegram; наблюдалось 0 предложений"
+https://kwork.ru/projects/3232891,"Telegram бота / SaaS сервис",4000,12000,53,60%,74,"50+","полноценный Telegram SaaS MVP, bot API, DB, Docker, масштабирование"
+https://kwork.ru/projects/3233098,"Разработка ИИ-агента для поиска клиентов",5000,15000,22,21%,35,"20+","AI seller: Telegram/WhatsApp, qualification, Sheets/CRM, lead notifications"
+https://kwork.ru/projects/3232447,"Автоматизация наполнения раздела сайта на WordPress",3000,9000,17,80%,100,"700+","парсер Яндекс Про → WordPress, scheduled update, SEO pages, deduplication"
+https://kwork.ru/projects/3231487,"Разработка сайта на CMS 1С-Битрикс",500,1500,3,20%,112,"20+","развернуть готовый специализированный шаблон, настроить, наполнить, сдать на хостинге"
+https://kwork.ru/projects/3233295,"Правки приложениям (двум) на андроиде",20000,,15,50%,324,"50+","обновить target API, проверить работоспособность и исправить баги"
+https://kwork.ru/projects/3232940,"Запуск контент-завода: распаковка, развёртывание",20000,60000,44,45%,22,"50+","готовый код: deploy Linux/Python, APIs, WordPress REST, cron/systemd, month support"
+https://kwork.ru/projects/3232445,"Система автоматической озвучки статей WordPress",3000,9000,27,80%,100,"700+","WordPress + local Silero TTS + queue + admin + MP3 player"
+https://kwork.ru/projects/3232120,"Разработка Telegram-бота",5000,15000,72,50%,12,"7+","Python/aiogram bot, API, payments, DB, admin, deploy"
